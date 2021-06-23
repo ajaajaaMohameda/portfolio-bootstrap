@@ -10916,6 +10916,11 @@ textarea.form-control-lg {
   font-size: 0.8rem;
 }
 @media (min-width: 992px) {
+  .services__content p {
+    font-size: 1rem;
+  }
+}
+@media (min-width: 992px) {
   .services__content {
     margin-top: 5rem;
     margin-top: 5rem;
